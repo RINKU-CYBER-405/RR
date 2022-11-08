@@ -1,2 +1,2 @@
-import RS
-RS.random_bd_number()
+import RS_MAHADI_ENC
+RS_MAHADI_ENC.random_bd_number()
